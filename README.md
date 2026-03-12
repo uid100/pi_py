@@ -22,7 +22,3 @@ pip install -r requirements.txt
 
 # Run the demo
 python pi.py
-
-
-
-
