@@ -1,14 +1,19 @@
-# Monte Carlo π Estimator (Python + matplotlib)
+# Monte Carlo pi(π) Estimator (Python + matplotlib)
 
-A beginner-friendly, visual Monte Carlo simulation that estimates π by randomly sampling points in a unit square and checking whether they fall inside a unit quarter-circle. Includes a simple GUI using `matplotlib` **RadioButtons** to change the number of samples interactively—an on-ramp to **event-driven programming** after weeks of console apps.
+A visual Monte Carlo simulation that estimates π by randomly sampling points in a unit square and checking whether they fall inside a unit quarter-circle.
+
+Includes a simple GUI using `matplotlib` **RadioButtons** to change the number of samples interactively as an **event-driven programming** demostration.
+
 
 ## Quick Start
 
 ```bash
 # (Recommended) create and activate a virtual environment
 python -m venv .venv
+
 # Windows PowerShell
 . .venv\Scripts\Activate.ps1
+
 # macOS/Linux
 source .venv/bin/activate
 
