@@ -1,6 +1,6 @@
 # Lab: Monte Carlo π Estimation — Event-Driven Intro with matplotlib
 
-**Context:** You’ve been writing console apps. This lab introduces **event-driven programming** using `matplotlib` widgets (GUI-like controls) to trigger updates to a plot.
+**Context:** As a next step from writing console apps, this lab introduces **event-driven programming** using `matplotlib` widgets (GUI-like controls) to trigger updates to a plot.
 
 ---
 
